@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/drawable-v24/adult_bg.xml" value="0.1" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/drawable-v24/circle_bg.xml" value="0.1" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/drawable-v24/hd_bg.xml" value="0.1" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/drawable-v24/ic_no_internet.xml" value="0.22" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/drawable-v24/poster_dash_bg.xml" value="0.1" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/font/aldrich.xml" value="0.1648148148148148" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/layout/activity_detail.xml" value="0.1213768115942029" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/MyProject/Android/Movie/BlixMov/app/src/main/res/layout/item_slider_home.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

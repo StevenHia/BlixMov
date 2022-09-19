@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BlixMov</string>
+    <string name="title_home">Home</string>
+    <string name="title_genres">Genre</string>
+    <string name="title_account">Profile</string>
+    <string name="image_cin">image</string>
+    <string name="no_internet">No Internet</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="see_all">See All</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="image_video_trailer">Image Video Trailer</string>
+    <string name="video_trailer">Video Trailer</string>
+    <string name="tv_cast">Casts</string>
+    <string name="tv_crew">Crews</string>
+    <string name="tv_reviews">Reviews</string>
+
+    <string name="number_18">18+</string>
+    <string name="number_13">13+</string>
+    <string name="tv_hd">HD</string>
+    <string name="text_popularity">Popularity</string>
+    <string name="text_overview">Overview</string>
+
+    <string name="getAuthor">Written by : %s</string>
+    <string name="empty_video_trailer">Empty Video Trailer</string>
+</resources>
